@@ -5,5 +5,7 @@
   --font-Smooch:"Smooch Sans", sans-serif;
   --color-Dark: #202124;
   --color-innerDark: #191919;
+  --color-altDark: #171717;
   --color-off_white: #fafafa;
+  --shadow-green: 4px 4px oklch(72.3% 0.219 149.579);
 }
